@@ -28,12 +28,12 @@ Sigue estos sencillos pasos para clonar y ejecutar el proyecto en tu máquina:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/bardolog1/factura-app.git
+   git clone https://github.com/bardolog1/invoice-app-react.git
    ```
 
 2. **Ingresa al Directorio del Proyecto:**
    ```bash
-   cd factura-app
+   cd invoice-app-react
    ```
 
 3. **Instala las Dependencias:**
