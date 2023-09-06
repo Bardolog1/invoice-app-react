@@ -37,20 +37,20 @@ Sigue estos sencillos pasos para clonar y ejecutar el proyecto en tu máquina:
    ```
 
 3. **Instala las Dependencias:**
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. **Inicia la Aplicación con Vite:**
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
-¡Listo! La aplicación estará disponible en tu navegador en [http://localhost:3000](http://localhost:3000).
+¡Listo! La aplicación estará disponible en tu navegador en [http://localhost:3000](http://localhost:5173).
 
 ## Vista en Tiempo Real 🚀
 
-Puedes ver la aplicación en tiempo real en [https://tuappdefactura.com](https://tuappdefactura.com). ¡Diviértete explorando y creando facturas! 😃
+Puedes ver la aplicación en tiempo real en [https://invoiceapp-react.netlify.app](https://invoiceapp-react.netlify.app). ¡Diviértete explorando y creando facturas! 😃
 
 ## Contribución y Reporte de Errores 🤝
 
